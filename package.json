@@ -10,9 +10,13 @@
   "author": "deva",
   "license": "ISC",
   "dependencies": {
+    "cookie-session": "^2.1.0",
     "express": "^4.21.2",
+    "express-session": "^1.18.1",
     "mongodb": "^6.12.0",
     "mongoose": "^8.9.0",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "passport": "^0.7.0",
+    "passport-google-oauth2": "^0.2.0"
   }
 }
